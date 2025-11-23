@@ -1,0 +1,12 @@
+const accountId=144553
+let accountEmail="shaarav@gmail.com"
+var accountPassword="12345"
+accountCity="Jaipur"
+
+// accountId = 2 // not allowed
+
+
+accountEmail="sharad@gmail.com"
+accountId="155343"
+accountPassword="15678"
+accountCity="gurgaon"
